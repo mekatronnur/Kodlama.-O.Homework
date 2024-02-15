@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io.Core", "Kodlama.io.Core\Kodlama.io.Core.csproj", "{D1CFE847-1328-46F6-81CA-D71D0CD6A2A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io.Web", "Kodlama.io.Web\Kodlama.io.Web.csproj", "{41D97C46-A6D7-46A4-ACB1-D814C5FA1237}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CFE847-1328-46F6-81CA-D71D0CD6A2A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CFE847-1328-46F6-81CA-D71D0CD6A2A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CFE847-1328-46F6-81CA-D71D0CD6A2A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CFE847-1328-46F6-81CA-D71D0CD6A2A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41D97C46-A6D7-46A4-ACB1-D814C5FA1237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41D97C46-A6D7-46A4-ACB1-D814C5FA1237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41D97C46-A6D7-46A4-ACB1-D814C5FA1237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41D97C46-A6D7-46A4-ACB1-D814C5FA1237}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86714DA8-46CD-4CC9-9E26-8CAEA669747B}
+	EndGlobalSection
+EndGlobal
